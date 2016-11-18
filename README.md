@@ -16,7 +16,7 @@ This software is released under the MIT License (included with the software). No
 Author:
 -------
 
-Wai Lok Lai (email: anguslai@alum.mit.edu)
+Wai Lok Lai (email: anguslai@mit.edu)
 
 
 Requirements:
