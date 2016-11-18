@@ -1,0 +1,15 @@
+*.asv
+.DS_Store
+*.mat
+*.bin
+*.zip
+*.png
+*.gz
+*.png
+*.jpg
+*.exe
+*.ppk
+*.o
+*.mexa64
+*.mexw64
+*.mexmaci64
