@@ -37,7 +37,7 @@ cd ../..
 
 - Running the Code: The entry point of the code is `./main.m`.
 
-Folder structure: 
+Folder structure:
 -----------------
 Files:
 - `./main.m`: main entry point of the code
