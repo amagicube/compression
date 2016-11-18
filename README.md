@@ -40,13 +40,13 @@ cd ../..
 Folder structure: 
 -----------------
 Files:
-`./main.m`: main entry point of the code
-`./randfile`: used for generating randomness given a seed
-`./startup.m`: initializes the environment for running our code in MATLAB
-`./thesis.pdf`: the pdf of the aforementioned thesis
+- `./main.m`: main entry point of the code
+- `./randfile`: used for generating randomness given a seed
+- `./startup.m`: initializes the environment for running our code in MATLAB
+- `./thesis.pdf`: the pdf of the aforementioned thesis
 
 Folders:
-`./decode`: contains functions for decoding (decompression)
-`./encode`: contains functions for encoding (compression)
-`./lib`: contains libraries that the code uses
-`./source`: contains the definitions and BP implementations of different source models
+- `./decode`: contains functions for decoding (decompression)
+- `./encode`: contains functions for encoding (compression)
+- `./lib`: contains libraries that the code uses
+- `./source`: contains the definitions and BP implementations of different source models
