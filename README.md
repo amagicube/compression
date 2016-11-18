@@ -27,9 +27,7 @@ Requirements:
 Getting Started:
 ----------------
 
-1. C-MEX Compilation
-
-Compile the C-MEX files with MATLAB: from the root of the git repository, run the following commands in the MATLAB console:
+- Compile the C-MEX files with MATLAB: from the root of the git repository, run the following commands in the MATLAB console:
 
 ```
 cd lib/ldpc
@@ -37,9 +35,7 @@ mex -largeArrayDims generate_ldpc.c rand.c alloc.c intio.c open.c mod2sparse.c m
 cd ../..
 ```
 
-2. Running the Code:
-
-The entry point of the code is `./main.m`.
+- Running the Code: The entry point of the code is `./main.m`.
 
 Folder structure: 
 -----------------
